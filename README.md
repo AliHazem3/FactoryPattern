@@ -5,6 +5,7 @@ of your card that you insert in the ATM.The first six-digit numbers on card repr
 
 
 The target: 
+
 1.Easy in updataing or adding new Bank
 
 2.It doesn't make the client code responsible for creating objects.
