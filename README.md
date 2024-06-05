@@ -1,7 +1,7 @@
 # FactoryPattern
 
-This project is like an ATM machine that can detect the type of bank by checking the first six digits
-number of your card that you insert in the ATM.The first six-digit numbers in card represent the type of Bank
+This project is like an ATM machine that can detect the type of bank by checking first six-digit numbers
+of your card that you insert in the ATM.The first six-digit numbers on card represent the type of Bank.
 
 
 The target: 
